@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ritik2973/DSA/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Ritik2973/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ritik2973/DSA/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Ritik2973/DSA/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ritik2973/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ritik2973/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Ritik2973/DSA/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Ritik2973/DSA/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Ritik2973/DSA/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Ritik2973/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ritik2973/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ritik2973/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritik2973/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Ritik2973/DSA/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Ritik2973/DSA/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
