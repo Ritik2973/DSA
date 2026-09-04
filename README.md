@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ritik2973/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ritik2973/DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Ritik2973/DSA/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/Ritik2973/DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Ritik2973/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ritik2973/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Ritik2973/DSA/tree/master/0704-binary-search) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Ritik2973/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ritik2973/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/Ritik2973/DSA/tree/master/1095-find-in-mountain-array) |
 ## Ternary Search
