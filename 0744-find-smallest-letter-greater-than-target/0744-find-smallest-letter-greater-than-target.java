@@ -11,5 +11,9 @@ class Solution {
                 end=mid-1;
             }
 
-        }return letters[start%letters.length];
+        }return letters[start%letters.length]; 
 }}
+
+// for(char c:letters){
+//     return c;
+// }return letters[o];
