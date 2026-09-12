@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Ritik2973/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ritik2973/DSA/tree/master/0392-is-subsequence) |
 | [0925-long-pressed-name](https://github.com/Ritik2973/DSA/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/Ritik2973/DSA/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/Ritik2973/DSA/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Ritik2973/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ritik2973/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ritik2973/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0942-di-string-match](https://github.com/Ritik2973/DSA/tree/master/0942-di-string-match) |
 | [1095-find-in-mountain-array](https://github.com/Ritik2973/DSA/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ritik2973/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Ritik2973/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ritik2973/DSA/tree/master/0392-is-subsequence) |
 | [0925-long-pressed-name](https://github.com/Ritik2973/DSA/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/Ritik2973/DSA/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/Ritik2973/DSA/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Ritik2973/DSA/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/Ritik2973/DSA/tree/master/0942-di-string-match) |
 <!---LeetCode Topics End-->
