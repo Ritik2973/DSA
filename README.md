@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ritik2973/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ritik2973/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ritik2973/DSA/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/Ritik2973/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Ritik2973/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ritik2973/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ritik2973/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -135,10 +136,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ritik2973/DSA/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Ritik2973/DSA/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritik2973/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ritik2973/DSA/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritik2973/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Ritik2973/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
