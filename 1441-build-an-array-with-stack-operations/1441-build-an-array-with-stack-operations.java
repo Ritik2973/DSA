@@ -1,18 +1,18 @@
 class Solution {
     public List<String> buildArray(int[] target, int n) {
-        Stack<String> st = new Stack<>();
+        Stack<String> ss = new Stack<>();
+        int i=1;
         int j = 0;
-        for (int i = 1; i <= n; i++) {
-            st.push("Push");
-            if (i == target[j]) {
-                j++;
-            } 
-            else {
-                st.push("Pop");
+        while(j<target.length){
+            if(i==target[j]){
+                ss.push("Push");
+                j++;i++;
             }
-            if (j == target.length) {
-                break;
+            else{
+                ss.push("Push");
+                ss.push("Pop");
+                i++;
             }
-        }return st;
+        } return ss;
     }
 }
