@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Ritik2973/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ritik2973/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ritik2973/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/Ritik2973/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/Ritik2973/DSA/tree/master/0942-di-string-match) |
 | [1095-find-in-mountain-array](https://github.com/Ritik2973/DSA/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ritik2973/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ritik2973/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ritik2973/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ritik2973/DSA/tree/master/0392-is-subsequence) |
+| [0922-sort-array-by-parity-ii](https://github.com/Ritik2973/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/Ritik2973/DSA/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/Ritik2973/DSA/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/Ritik2973/DSA/tree/master/1768-merge-strings-alternately) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ritik2973/DSA/tree/master/0075-sort-colors) |
+| [0922-sort-array-by-parity-ii](https://github.com/Ritik2973/DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## Quicksort
 |  |
 | ------- |
