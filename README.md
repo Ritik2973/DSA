@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Ritik2973/DSA/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ritik2973/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ritik2973/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritik2973/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Ritik2973/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ritik2973/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ritik2973/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritik2973/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritik2973/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -178,4 +180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Ritik2973/DSA/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritik2973/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
