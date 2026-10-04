@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ritik2973/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Ritik2973/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritik2973/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Ritik2973/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ritik2973/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ritik2973/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ritik2973/DSA/tree/master/0485-max-consecutive-ones) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ritik2973/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Ritik2973/DSA/tree/master/0169-majority-element) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ritik2973/DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## Quicksort
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ritik2973/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Ritik2973/DSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Ritik2973/DSA/tree/master/0169-majority-element) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -187,4 +190,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/Ritik2973/DSA/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritik2973/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ritik2973/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ritik2973/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ritik2973/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
