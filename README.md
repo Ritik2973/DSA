@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritik2973/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ritik2973/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ritik2973/DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Ritik2973/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Ritik2973/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ritik2973/DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritik2973/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Ritik2973/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ritik2973/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Ritik2973/DSA/tree/master/0217-contains-duplicate) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ritik2973/DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## Quicksort
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ritik2973/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Ritik2973/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ritik2973/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Ritik2973/DSA/tree/master/0217-contains-duplicate) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
