@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ritik2973/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ritik2973/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ritik2973/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ritik2973/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ritik2973/DSA/tree/master/0392-is-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritik2973/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/Ritik2973/DSA/tree/master/0925-long-pressed-name) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ritik2973/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ritik2973/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ritik2973/DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ritik2973/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -209,8 +211,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ritik2973/DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ritik2973/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ritik2973/DSA/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ritik2973/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
