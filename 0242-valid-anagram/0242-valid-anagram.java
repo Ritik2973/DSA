@@ -5,7 +5,6 @@ class Solution {
         Arrays.sort(a);
         Arrays.sort(b);
         return Arrays.equals(a,b);
-
-        
-    }
+       
+}
 }
