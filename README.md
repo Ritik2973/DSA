@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Ritik2973/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritik2973/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Ritik2973/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [2293-min-max-game](https://github.com/Ritik2973/DSA/tree/master/2293-min-max-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Ritik2973/DSA/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/Ritik2973/DSA/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ritik2973/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [2293-min-max-game](https://github.com/Ritik2973/DSA/tree/master/2293-min-max-game) |
 ## Sliding Window
 |  |
 | ------- |
