@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ritik2973/DSA/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Ritik2973/DSA/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ritik2973/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Ritik2973/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ritik2973/DSA/tree/master/0231-power-of-two) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Ritik2973/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Ritik2973/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritik2973/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Ritik2973/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Ritik2973/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2293-min-max-game](https://github.com/Ritik2973/DSA/tree/master/2293-min-max-game) |
 ## Two Pointers
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Ritik2973/DSA/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/Ritik2973/DSA/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ritik2973/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Ritik2973/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2293-min-max-game](https://github.com/Ritik2973/DSA/tree/master/2293-min-max-game) |
 ## Sliding Window
 |  |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritik2973/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Ritik2973/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
 |  |
 | ------- |
