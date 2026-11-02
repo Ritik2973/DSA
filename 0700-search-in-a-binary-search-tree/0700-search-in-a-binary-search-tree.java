@@ -20,9 +20,9 @@ class Solution {
                 return root;
             }if(val<root.val) {
                 root = root.left;
-            }else {
-                root =root.right;
+            }else{
+                root=root.right;
             }
-        }return null;
+            }return null;
+        }
     }
-}
