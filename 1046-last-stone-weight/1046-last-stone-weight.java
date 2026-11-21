@@ -15,6 +15,9 @@ class Solution {
             }
         }
 
-        return pq.isEmpty() ? 0 : pq.poll();
+        if (pq.isEmpty()) {
+    return 0;
+}
+return pq.poll();
     }
 }
